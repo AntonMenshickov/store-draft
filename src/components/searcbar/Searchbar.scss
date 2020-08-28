@@ -1,0 +1,20 @@
+.Seacrh-bar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    grid-area: seach;
+    .search-box {
+        color: var(--color-light-gray);
+        border: 1x solid var(--color-light-gray);
+        input {
+            border: none !important;
+            border: 1x solid #eee;
+            padding: 10px 5px;
+            &:focus {
+                outline: none;
+            }
+        }
+    }
+    
+}

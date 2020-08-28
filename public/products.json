@@ -1,0 +1,45 @@
+[
+    {
+        "name": "product",
+        "picrure_id": "1",
+        "price": "1500",
+        "currency": "RU",
+        "in_stock": "1",
+        "preorder": "TRUE"
+    },
+    {
+        "name": "product",
+        "picrure_id": "2",
+        "price": "1500",
+        "currency": "RU",
+        "in_stock": "1",
+        "preorder": "TRUE"
+    },
+    {
+        "name": "product",
+        "picrure_id": "3",
+        "price": "1500",
+        "currency": "RU",
+        "in_stock": "1",
+        "preorder": "TRUE"
+    }
+    ,
+    {
+        "name": "product",
+        "picrure_id": null,
+        "price": "1500",
+        "currency": "RU",
+        "in_stock": "1",
+        "preorder": "TRUE"
+    }
+    ,
+    {
+        "name": "product",
+        "picrure_id": "1",
+        "price": "1500",
+        "currency": "RU",
+        "in_stock": "1",
+        "preorder": "TRUE"
+    }
+]
+

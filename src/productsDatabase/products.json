@@ -1,0 +1,63 @@
+[
+    {
+        "productCode": "0",
+        "name": "Default product name",
+        "picrureId": "1",
+        "price": 1500,
+        "currency": "RUB",
+        "inStock": 3,
+        "preorder": false,
+        "unit": "ШТ"
+    },
+    {
+        "productCode": "1",
+        "name": "Very long product name width some desc",
+        "picrureId": "1",
+        "price": 1500,
+        "currency": "EUR",
+        "inStock": 0,
+        "preorder": true,
+        "unit": "Пачка"
+    },
+    {
+        "productCode": "2",
+        "name": "product1",
+        "picrureId": "1",
+        "price": 1500,
+        "currency": "RU",
+        "inStock": 1,
+        "preorder": true,
+        "unit": "Бочка"
+    },
+    {
+        "productCode": "3",
+        "name": "product2",
+        "picrureId": "1",
+        "price": 1500,
+        "currency": "RU",
+        "inStock": 2,
+        "preorder": true,
+        "unit": "КГ"
+    },
+    {
+        "productCode": "4",
+        "name": "product3",
+        "picrureId": "1",
+        "price": 1800,
+        "currency": "RU",
+        "inStock": 4,
+        "preorder": true,
+        "unit": "Литр"
+    },
+    {
+        "productCode": "5",
+        "name": "product4",
+        "picrureId": "1",
+        "price": "1500",
+        "currency": "RU",
+        "inStock": 5,
+        "preorder": true,
+        "unit": "--"
+    }
+]
+

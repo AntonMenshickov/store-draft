@@ -1,0 +1,11 @@
+.Products-list {
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    flex-wrap: wrap;
+    margin: 0 -10px;
+    .Product-showcase {
+        flex-shrink: 0;;
+        width: 33.3%
+    }
+}

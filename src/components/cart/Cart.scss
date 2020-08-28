@@ -1,0 +1,21 @@
+.Cart {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    &.empty {
+        color: var(--color-black-disabled);
+    }
+    grid-area: cart;
+}
+
+.Cart-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: var(--color-black-main);
+    cursor: pointer;
+    .Chart-label {
+        padding-top: 10px;
+        font-size: 10px;
+    }
+}
